@@ -1,4 +1,4 @@
-# Oracle Docker (Compose) Template
+# Oracle Connection
 
    ```
 1. Grab a pint of :coffee: and wait until the database setup including dump import is done.
