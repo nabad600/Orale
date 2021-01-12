@@ -1,7 +1,7 @@
 # Oracle Connection
 
    ```
-1. Grab a pint of :coffee: and wait until the database setup including dump import is done.
+Wait until the database setup including dump import is done.
 
 The password for all Oracle system accounts (`SYSTEM`, `SYS`, `PDBADMIN`) is `oracle`
 
